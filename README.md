@@ -1,1 +1,1 @@
-# EDU_Code
+# UoEdinburgh_Code
